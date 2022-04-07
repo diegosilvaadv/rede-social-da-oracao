@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>360586623153-j8ppvuestbah7jd46bjvmbgqkp1k8vju.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.360586623153-j8ppvuestbah7jd46bjvmbgqkp1k8vju</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>360586623153-4dm5hjgjrufijm549h3tgfctkurvla6l.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAZ0wZ6qW91kCCfOZdCkxtObMFES5HXcVg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>360586623153</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.adv7dev.redesocialdaoracao</string>
+	<key>PROJECT_ID</key>
+	<string>rede-social-da-oracao</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rede-social-da-oracao.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:360586623153:ios:ec91dd3e5faf0ebef1ca90</string>
+	<key>DATABASE_URL</key>
+	<string>https://rede-social-da-oracao-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

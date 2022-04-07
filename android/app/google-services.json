@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "360586623153",
+    "firebase_url": "https://rede-social-da-oracao-default-rtdb.firebaseio.com",
+    "project_id": "rede-social-da-oracao",
+    "storage_bucket": "rede-social-da-oracao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360586623153:android:78314766f70dc456f1ca90",
+        "android_client_info": {
+          "package_name": "com.adv7dev.redesocialdaoracao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360586623153-4dm5hjgjrufijm549h3tgfctkurvla6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adv7dev.redesocialdaoracao",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "360586623153-55hm59lvl5j7pkoid0gkadu73uo03va4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYZT4V-TTqcX-czHcfkLYs3gV_jU6Uz7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360586623153-55hm59lvl5j7pkoid0gkadu73uo03va4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "360586623153-j8ppvuestbah7jd46bjvmbgqkp1k8vju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adv7dev.redesocialdaoracao"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
